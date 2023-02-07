@@ -17,4 +17,4 @@ Welcome to the Cyclistic bike-share analysis case study! In this study, I perfor
 
 - [Full Report](https://sites.google.com/view/scott-esguerra/cyclistic-bike-share-analysis?authuser=0)
 - [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
-- [Data License Aggrement](https://ride.divvybikes.com/data-license-agreement)
+- [Data License Agreement](https://ride.divvybikes.com/data-license-agreement)
